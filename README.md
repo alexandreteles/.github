@@ -32,7 +32,7 @@
     <br><be>
     - 🔭 I’m currently working on: <b><a href="https://github.com/revanced/revanced-api">revanced-api</a></b>
     <br><be>
-    - 🌱 I’m currently learning: <b>Rust</b>
+    - 🌱 I’m currently learning: <b>ONNX</b>
     <br><be>
     - 💬 Ask me about: <b>Python and Data Science</b>
     <br><be>
